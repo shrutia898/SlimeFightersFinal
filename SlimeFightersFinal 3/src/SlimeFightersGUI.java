@@ -433,7 +433,7 @@ public class SlimeFightersGUI extends javax.swing.JFrame {
         }
         else if(randomNumber == 2){
          JOptionPane.showMessageDialog(this,
-            "Berserker increased health" + guardian.getHealth(),
+            "Berserker increased health " + guardian.getHealth(),
             "Increased Health",
             JOptionPane.INFORMATION_MESSAGE );
      }
@@ -445,7 +445,7 @@ public class SlimeFightersGUI extends javax.swing.JFrame {
      }
         else if(randomNumber == 4){
          JOptionPane.showMessageDialog(this,
-            "Mage increased health" + mage.getHealth(),
+            "Mage increased health " + mage.getHealth(),
             "Increased Health",
             JOptionPane.INFORMATION_MESSAGE );
         
