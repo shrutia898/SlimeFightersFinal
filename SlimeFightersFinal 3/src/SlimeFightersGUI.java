@@ -20,7 +20,7 @@ public class SlimeFightersGUI extends javax.swing.JFrame {
     private int shieldedPlayers;
     private int healedPlayers;
     private int stuns;
-    boolean stunned;
+    private boolean stunned;
     private int day = 1;
     private int moves = 0;
     
